@@ -8,6 +8,11 @@ Each project demonstrates how to adapt cloud-native tools across platforms while
 
 ---
 
+### Flow Diagram:
+![Flow_Diagram](./Flow_Diagram.png)
+
+---
+
 ## ✅ Method 1: ADF to Synapse via Scripted Migration
 
 ### Objective
