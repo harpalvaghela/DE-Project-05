@@ -9,7 +9,7 @@ Each project demonstrates how to adapt cloud-native tools across platforms while
 ---
 
 ### Flow Diagram:
-![Flow_Diagram](./Flow_Diagram.png)
+![Flow_diagram](./Flow_diagram.png)
 
 ---
 
