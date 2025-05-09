@@ -1,4 +1,4 @@
-# 🚀 ADF & Databricks Migration Projects
+# 🚀 ADF & Databricks Migration Project
 
 This repository showcases two practical migration workflows:
 1. Azure Data Factory (ADF) to Synapse Analytics Pipelines
